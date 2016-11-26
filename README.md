@@ -1,0 +1,1 @@
+# blogdjango19python2
