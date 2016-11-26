@@ -91,3 +91,6 @@ ENV/
 
 # Database information
 .sqlite3
+
+# Removing pip information
+pip-selfcheck.json
